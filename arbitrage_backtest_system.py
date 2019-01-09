@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 '''
 @author: Yiyang Wen
 @date: 2019/01/04
